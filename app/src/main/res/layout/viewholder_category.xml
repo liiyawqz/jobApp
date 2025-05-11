@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/catTxt"
+    android:layout_width="wrap_content"
+    android:layout_height="35dp"
+    android:text="cat"
+    android:paddingHorizontal="16dp"
+    android:gravity="center"
+    android:background="@drawable/grey_full_corner_bg"
+    android:layout_marginStart="16dp">
+
+</TextView>
