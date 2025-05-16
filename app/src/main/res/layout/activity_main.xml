@@ -34,7 +34,7 @@
                         android:id="@+id/textView3"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Location"
+                        android:text="Локация"
                         android:textColor="@color/white"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toTopOf="parent" />
@@ -98,7 +98,7 @@
                         android:drawableStart="@drawable/search_icon"
                         android:drawablePadding="8dp"
                         android:ems="10"
-                        android:hint="Search Anything..."
+                        android:hint=" Поиск..."
                         android:inputType="text"
                         android:padding="8dp" />
 
@@ -124,7 +124,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Suggested Job"
+                    android:text="Рекомендуемая работа"
                     android:textColor="@color/black"
                     android:textSize="18sp"
                     android:textStyle="bold" />
@@ -133,7 +133,7 @@
                     android:id="@+id/textView6"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="See all"
+                    android:text="Смотреть все"
                     android:textColor="@color/purple" />
             </LinearLayout>
 
@@ -173,7 +173,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Recent Job"
+                    android:text="Недавние вакансии"
                     android:textColor="@color/black"
                     android:textSize="18sp"
                     android:textStyle="bold" />
@@ -182,7 +182,7 @@
                     android:id="@+id/textView8"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="See all"
+                    android:text="Смотреть все"
                     android:textColor="@color/purple" />
             </LinearLayout>
 
@@ -265,7 +265,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="Home"
+                        android:text="Главная"
                         android:textAlignment="center"
                         android:textColor="@color/darkGrey" />
                 </LinearLayout>
@@ -287,7 +287,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="Explorer"
+                        android:text="Обзор"
                         android:textAlignment="center"
                         android:textColor="@color/darkGrey" />
                 </LinearLayout>
@@ -309,7 +309,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="Bookmark"
+                        android:text="Избранные"
                         android:textAlignment="center"
                         android:textColor="@color/darkGrey" />
                 </LinearLayout>
@@ -331,7 +331,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="Chat"
+                        android:text="Чат"
                         android:textAlignment="center"
                         android:textColor="@color/darkGrey" />
                 </LinearLayout>
@@ -353,7 +353,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="Profile"
+                        android:text="Профиль"
                         android:textAlignment="center"
                         android:textColor="@color/darkGrey" />
                 </LinearLayout>
